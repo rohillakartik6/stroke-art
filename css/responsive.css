@@ -122,9 +122,9 @@
     .main_form .send_btn {
         margin-bottom: 30px;
     }
-    ul.email {
+    /* ul.email {
         display: none;
-    }
+    } */
     .bottom_form h3 {
         padding-right: 30px;
     }
@@ -253,8 +253,8 @@
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
     }
-    ul.email li {
+    /* ul.email li {
         display: none;
-    }
+    } */
 }
 
