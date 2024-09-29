@@ -82,9 +82,9 @@
     .d_none {
         display: none;
     }
-    ul.email {
+    /* ul.email {
         display: none;
-    }
+    } */
     .bottom_form .enter {
         width: 58%;
     }
